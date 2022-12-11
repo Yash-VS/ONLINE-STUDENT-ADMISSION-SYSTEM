@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "944905204246",
+    "firebase_url": "https://student-admission-system-793d3-default-rtdb.firebaseio.com",
+    "project_id": "student-admission-system-793d3",
+    "storage_bucket": "student-admission-system-793d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944905204246:android:6a6cd4c7cb4926bcabfb37",
+        "android_client_info": {
+          "package_name": "com.example.studentadmissionsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944905204246-igrckjtetq829gdqqjdm9hegqfto62qj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studentadmissionsystem",
+            "certificate_hash": "be6ce8a83a62c4b56c0a654b2de709a60ffe6ffe"
+          }
+        },
+        {
+          "client_id": "944905204246-tnb5ggeoefdalj3tmhg0tvfmhcac50ko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAPL7HWkP0NO10yc51-zit_mi2MesNCfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944905204246-tnb5ggeoefdalj3tmhg0tvfmhcac50ko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
